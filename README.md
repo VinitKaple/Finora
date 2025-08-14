@@ -1,24 +1,33 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/egS6fnZAdzk
+# 💰 Finora — One Stop Finance Platform
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+**Finora** is your all-in-one finance management solution — combining smart budgeting, AI-powered insights, receipt scanning, account tracking, and more — all wrapped in a clean, modern interface.
 
-### Make sure to create a `.env` file with following variables -
+## 🚀 Features
 
-```
-DATABASE_URL=
-DIRECT_URL=
+- **📊 Interactive Dashboard** — Get a clear overview of your finances at a glance.
+- **💵 Transactions & Accounts** — Easily add, update, and track your spending.
+- **🔐 Clerk Authentication** — Secure and seamless user sign-in & sign-up.
+- **🧠 AI Insights** — Powered by Google Generative AI to analyze your spending and give personalized advice.
+- **🧾 Receipt Scanner** — Automatically extract transaction details from uploaded receipts.
+- **📧 Email Notifications** — Monthly financial reports delivered to your inbox.
+- **⏳ Rate Limiting** — Secured with [Arcjet](https://arcjet.com) to ensure stability and prevent abuse.
+- **📅 Budget Tracking** — Stay on top of your monthly spending limits.
+- **⚡ Event-Driven Automation** — Powered by [Inngest](https://www.inngest.com) for background processing.
+- **🛠 Built for Production** — Prisma + Supabase backend, optimized workflows, and scalable architecture.
+- **🎨 Clean UI** — Minimalistic, responsive, and user-friendly design.
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+## 🛠 Tech Stack
 
-GEMINI_API_KEY=
+- **Frontend:** Next.js, Tailwind CSS
+- **Backend:** Supabase, Prisma
+- **AI & Automation:** Google Generative AI, Inngest
+- **Security & Rate Limiting:** Arcjet
+- **Email:** Resend
+- **Other:** Clerk Authentication
 
-RESEND_API_KEY=
-
-ARCJET_KEY=
-```
+## Preview
+<img width="1902" height="876" alt="image" src="https://github.com/user-attachments/assets/4482692a-0e19-4c53-acec-76960d4970fe" />
+<img width="1909" height="879" alt="image" src="https://github.com/user-attachments/assets/289592b7-1d90-4673-9360-5b385147f795" />
+<img width="1277" height="892" alt="image" src="https://github.com/user-attachments/assets/f92ad14d-e304-4de4-823b-c5bf5aea9b99" />
+<img width="1897" height="882" alt="image" src="https://github.com/user-attachments/assets/c0306169-c145-43ea-b246-4042155c8799" />
+<img width="1898" height="891" alt="image" src="https://github.com/user-attachments/assets/76ca7395-2989-4d29-9456-76e62c5f5b41" />
