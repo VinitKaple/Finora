@@ -26,8 +26,10 @@
 - **Other:** Clerk Authentication
 
 ## Preview
+<img width="1904" height="875" alt="image" src="https://github.com/user-attachments/assets/2220be4b-4d02-414b-89cb-89891eb2d5e4" />
 <img width="1902" height="876" alt="image" src="https://github.com/user-attachments/assets/4482692a-0e19-4c53-acec-76960d4970fe" />
-<img width="1909" height="879" alt="image" src="https://github.com/user-attachments/assets/289592b7-1d90-4673-9360-5b385147f795" />
-<img width="1277" height="892" alt="image" src="https://github.com/user-attachments/assets/f92ad14d-e304-4de4-823b-c5bf5aea9b99" />
-<img width="1897" height="882" alt="image" src="https://github.com/user-attachments/assets/c0306169-c145-43ea-b246-4042155c8799" />
-<img width="1898" height="891" alt="image" src="https://github.com/user-attachments/assets/76ca7395-2989-4d29-9456-76e62c5f5b41" />
+<img width="1900" height="808" alt="image" src="https://github.com/user-attachments/assets/497681a7-4f72-4276-b0bb-60d868d3c3e0" />
+<img width="1893" height="825" alt="image" src="https://github.com/user-attachments/assets/f3b5060e-3b08-4887-ac25-a7ff2770325a" />
+<img width="1153" height="806" alt="image" src="https://github.com/user-attachments/assets/24882282-aca4-46f0-8f60-ee74fb5f6254" />
+<img width="1172" height="840" alt="image" src="https://github.com/user-attachments/assets/3def366c-ae81-41ff-bae0-39bb3f05f9ea" />
+<img width="1909" height="882" alt="image" src="https://github.com/user-attachments/assets/1ff06da3-60a0-48c8-b712-6a707dcdb395" />
